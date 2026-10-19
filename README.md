@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## 一键运行
 
 ```powershell
-python train_with_rag_new_new.py --type Reentrancy_20260721_final --folds 5 --epochs 50 --batch-size 32
+python train_with_rag_new_new.py --type Reentrancy --folds 5 --epochs 50 --batch-size 32
 python train_with_rag_new_new.py --type "Integer Overflow" --folds 5 --epochs 50 --batch-size 32
 python train_with_rag_new_new.py --type "Access Control" --folds 5 --epochs 50 --batch-size 32
 ```
