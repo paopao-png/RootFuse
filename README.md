@@ -1,4 +1,4 @@
-# RAG4SC
+# RootFuse
 
 面向 Solidity 智能合约漏洞检测的 RAG 实验项目。项目使用 CodeT5+ 检索相似漏洞样本，生成函数描述，再结合 CodeBERT 向量训练融合分类器。
 
